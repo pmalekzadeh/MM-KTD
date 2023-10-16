@@ -2,7 +2,7 @@ Multiple Model Kalman Temporal Differences (MM-KTD) framework for value function
 
 This repository contains the codes for the MM-KTD framwork, introduced in the paper:
 
-Multiple Model Kalman Temporal Differences for Reinforcement Learning
+Multiple Model Kalman Temporal Differences for Reinforcement Learning (https://arxiv.org/pdf/2006.00195.pdf)
 
 Figs directory includes all of the figures in the paper.
 
